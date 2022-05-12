@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/mytrek/static/css/main.e6c13ad2.css",
+    "main.js": "/mytrek/static/js/main.0c44078b.js",
+    "static/js/787.cfd8f164.chunk.js": "/mytrek/static/js/787.cfd8f164.chunk.js",
+    "static/media/w.jpg": "/mytrek/static/media/w.777049b938dd99dbb763.jpg",
+    "static/media/wp.jpg": "/mytrek/static/media/wp.40c696bd5ae8dd0e290e.jpg",
+    "index.html": "/mytrek/index.html",
+    "main.e6c13ad2.css.map": "/mytrek/static/css/main.e6c13ad2.css.map",
+    "main.0c44078b.js.map": "/mytrek/static/js/main.0c44078b.js.map",
+    "787.cfd8f164.chunk.js.map": "/mytrek/static/js/787.cfd8f164.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0c44078b.js"
+  ]
+}
